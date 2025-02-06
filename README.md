@@ -1,2 +1,2 @@
-# devopsflask-delio
+# devops-fundamentals
 [Temp - For DevOps Training] To practise containerization...
